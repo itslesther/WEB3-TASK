@@ -6,6 +6,7 @@ This project demonstrates a function to find the highest number in a sorted arra
 
 The following pseudocode represents the binary search algorithm to find the highest number in the given array. The algorithm efficiently searches for the turning point in the sequence by dividing the search range in half during each iteration, and adjusting the search boundaries based on the relationship between the elements at the mid index and their neighbors. The algorithm ensures that it finds the highest number in the array in logarithmic time, making it efficient even for arrays with one million entries.
 
+```
 function findHighestNumber(arr)
   if arr is empty
     return null
@@ -26,7 +27,7 @@ function findHighestNumber(arr)
   return arr[left]
 
 end function
-
+```
 
 
 ## Prerequisites
