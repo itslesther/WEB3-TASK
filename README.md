@@ -1,4 +1,4 @@
-# Find Highest Number
+# WEB3 DEVELOPMENT TEST
 
 This project demonstrates a function to find the highest number in a sorted array that has two sequences, one increasing and the other decreasing. The function uses a modified binary search algorithm for an efficient solution.
 
