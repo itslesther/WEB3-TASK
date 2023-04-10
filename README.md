@@ -52,7 +52,7 @@ import { findHighestNumber } from './index';
 
 const arr = [2, 5, 9, 8, 7, 5, 3, 2, 1];
 console.log(findHighestNumber(arr)); // Output: 9
-
+```
 
 ### Running Tests
 
